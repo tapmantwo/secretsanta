@@ -1,0 +1,5 @@
+C:\dev\github\secretsanta\Domain\bin\Debug\Domain.dll
+C:\dev\github\secretsanta\Domain\bin\Debug\Domain.pdb
+C:\dev\github\secretsanta\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\dev\github\secretsanta\Domain\obj\Debug\Domain.dll
+C:\dev\github\secretsanta\Domain\obj\Debug\Domain.pdb

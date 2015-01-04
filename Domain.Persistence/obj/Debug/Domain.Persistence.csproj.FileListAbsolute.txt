@@ -1,0 +1,7 @@
+C:\dev\github\secretsanta\Domain.Persistence\bin\Debug\Domain.Persistence.dll
+C:\dev\github\secretsanta\Domain.Persistence\bin\Debug\Domain.Persistence.pdb
+C:\dev\github\secretsanta\Domain.Persistence\bin\Debug\Domain.dll
+C:\dev\github\secretsanta\Domain.Persistence\bin\Debug\Domain.pdb
+C:\dev\github\secretsanta\Domain.Persistence\obj\Debug\Domain.Persistence.csprojResolveAssemblyReference.cache
+C:\dev\github\secretsanta\Domain.Persistence\obj\Debug\Domain.Persistence.dll
+C:\dev\github\secretsanta\Domain.Persistence\obj\Debug\Domain.Persistence.pdb
